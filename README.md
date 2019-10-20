@@ -10,7 +10,7 @@ The code provided here implements genetics algorithms to solve knapsack problem.
     np.random.seed(42)
 
     #Set parameters
-    darwin = Darwin(nb_items=10, max_item_weight=3,              max_item_val=10, max_knapsack_weight=20,
+    darwin = Darwin(nb_items=10, max_item_weight=3, max_item_val=10, max_knapsack_weight=20,
     pop_size=30, mutation_rate=0.01, choice="wheel", keep_parents=True)
 
     #Launch natural selection process for 100 iterations
