@@ -18,7 +18,7 @@ The code provided here implements genetics algorithms to solve knapsack problem.
 
     # Show worst and best fitness in the population
     print("Worst fitness: {} \nBest fitness: {}".format(
-    darwin.population[0].get_fitness(),darwin.population[-1].get_fitness())
+    darwin.population[0].get_fitness(),darwin.population[-1].get_fitness()))
 ```
 ## Algorithm details
 Knapsacks and items are generated at random.
