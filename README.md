@@ -23,7 +23,7 @@ The code provided here implements genetics algorithms to solve knapsack problem.
 ## Algorithm details
 Knapsacks and items are generated at random.
 
-2 methods of parent selection are implemented here: 
+2 methods of parents selection are implemented here: 
 * Selection wheel
 * Tournament
 
