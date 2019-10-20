@@ -27,7 +27,7 @@ Knapsacks and items are generated at random.
 * Selection wheel
 * Tournament
 
-Parents reproduction are made thanks to a crosssover point.
+Parents reproduction are made thanks to a random crossover point.
 
 
 
